@@ -23,11 +23,8 @@ FALSE <-> TRUE
 
 # Usage
 
-Set cursor on word or select word and press:
+Set cursor on word or select word and press: <kbd>alt</kbd>+<kbd>w</kbd>, <kbd>alt</kbd>+<kbd>t</kbd>
 
-* macOS - <kbd>Cmd</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd>
-* Windows - <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd>
-* Linux - <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd>
 
 
 ## Installation
